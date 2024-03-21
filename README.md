@@ -24,6 +24,7 @@ As stated early I followed an ETL process or extract transform load in the backe
 
 Data was taken and organized from CSV files and was quite easy to import into Power Query, as the data was clearly named correctly and organized in a folder, the files used to import were organized like below:
 
+
 ![Capture](https://github.com/Tyler-Wilson-326/Adventure-Works/assets/141818698/a26d0234-39d5-4ddb-b2b4-d05b22adf5fd)
 
 
